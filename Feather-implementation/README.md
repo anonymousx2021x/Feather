@@ -25,4 +25,4 @@ Feather: Lightweight Multi-party Updatable Delegated Private Set Intersection
     
 * Note that in the above "homeDirectory" should be replaced with the name of your machine home directory.
 -------
-// Author: Aydin Abadi
+
